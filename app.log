@@ -1,0 +1,71 @@
+2025-04-03 12:06:15 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:06:43 - INFO - Fetching teams list
+2025-04-03 12:06:43 - INFO - Returning 54 teams
+2025-04-03 12:10:59 - INFO - Summary requested for india vs usa
+2025-04-03 12:10:59 - INFO - Caching result for teams: india vs usa
+2025-04-03 12:10:59 - INFO - No matches found between india and usa
+2025-04-03 12:10:59 - INFO - No matches found between india and usa
+2025-04-03 12:11:34 - INFO - Summary requested for india vs pakistan
+2025-04-03 12:11:34 - INFO - Caching result for teams: india vs pakistan
+2025-04-03 12:11:34 - INFO - Returning summary for india vs pakistan
+2025-04-03 12:11:47 - INFO - Summary requested for india vs pakistan
+2025-04-03 12:11:47 - INFO - Returning summary for india vs pakistan
+2025-04-03 12:13:37 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:13:43 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:14:58 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:19:45 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:19:46 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:22:42 - INFO - Generated API Key: 2ab18e6b387963bc5bf3b08ee16ca946e3531dbf247fd56cc958a05044791213
+2025-04-03 12:22:42 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:28:06 - INFO - Generated API Key: 0275ce47d172a7fa5fcd4643155057fcd0b8b88d8e149228cbe63b1c36ded162
+2025-04-03 12:28:06 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:28:27 - WARNING - Unauthorized API access attempt
+2025-04-03 12:28:41 - WARNING - Unauthorized API access attempt
+2025-04-03 12:29:08 - WARNING - Unauthorized API access attempt
+2025-04-03 12:30:40 - WARNING - Unauthorized API access attempt
+2025-04-03 12:40:29 - INFO - API Key generated (hidden for security).
+2025-04-03 12:40:29 - INFO - Loaded 1669 matches successfully
+2025-04-03 12:42:52 - INFO - API Key generated (hidden for security).
+2025-04-03 12:46:07 - INFO - API Key generated (hidden for security).
+2025-04-03 12:47:32 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:03 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:17 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:21 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:43 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:48 - INFO - API Key generated (hidden for security).
+2025-04-03 12:48:55 - INFO - API Key generated (hidden for security).
+2025-04-03 12:51:18 - INFO - API Key generated (hidden for security).
+2025-04-03 12:51:55 - INFO - API Key generated (hidden for security).
+2025-04-03 12:53:16 - INFO - API Key generated (hidden for security).
+2025-04-03 12:54:42 - INFO - API Key generated (hidden for security).
+2025-04-03 12:59:49 - INFO - API Key generated (hidden for security).
+2025-04-03 12:59:49 - INFO - Loaded 1669 matches successfully
+2025-04-03 13:00:11 - WARNING - Unauthorized API access attempt
+2025-04-03 13:02:34 - INFO - API Key set as: test-api-key
+2025-04-03 13:02:34 - INFO - Loaded 1669 matches successfully
+2025-04-03 13:02:41 - WARNING - Unauthorized API access attempt
+2025-04-03 13:05:35 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 13:05:35 - INFO - Loaded 1669 matches successfully
+2025-04-03 13:06:02 - WARNING - Unauthorized API access attempt
+2025-04-03 13:06:14 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 13:06:14 - INFO - Loaded 1669 matches successfully
+2025-04-03 13:06:26 - WARNING - Unauthorized API access attempt
+2025-04-03 14:02:11 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:02:11 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:02:29 - WARNING - Unauthorized API access attempt
+2025-04-03 14:04:21 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:04:21 - INFO - Loaded 1669 matches successfully
+2025-04-03 14:07:51 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:07:51 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:08:36 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:08:36 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:09:47 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:09:47 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:09:48 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:09:48 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:10:05 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:10:05 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:10:31 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:10:31 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
+2025-04-03 14:10:33 - INFO - Development API Key: cricket-dev-api-key-123 (use this for testing)
+2025-04-03 14:10:33 - ERROR - CSV file not found: /home/moni/cricket analysis/info.csv
